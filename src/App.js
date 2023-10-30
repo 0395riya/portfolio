@@ -102,7 +102,7 @@ function App() {
           </div>
           <div class="about-text">
             <p>
-              Hi, I'm Archana, and I'm currently employed at Value Innovation Labs located  as a frontend developer. In this role, I specialize in creating the user interface and overall user experience for websites and web applications. My work involves using HTML, CSS, and JavaScript to build and optimize the visual aspects of websites, ensuring they are both functional and aesthetically pleasing. I also collaborate with designers and back-end developers to bring web projects to life. I'm passionate about creating responsive, user-friendly web solutions and staying up-to-date with the latest front-end technologies to deliver the best user experiences.
+              Hi, I'm Archana, and I'm currently employed at Value Innovation Labs as a frontend developer. In this role, I specialize in creating the user interface and overall user experience for websites and web applications. My work involves using HTML, CSS, and JavaScript to build and optimize the visual aspects of websites, ensuring they are both functional and aesthetically pleasing. I also collaborate with designers and back-end developers to bring web projects to life. I'm passionate about creating responsive, user-friendly web solutions and staying up-to-date with the latest front-end technologies to deliver the best user experiences.
             </p>
             <div class="information">
               <div class="info-box">

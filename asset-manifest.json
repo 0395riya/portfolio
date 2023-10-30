@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.98710a92.css",
+    "main.js": "/portfolio/static/js/main.2337f6f3.js",
+    "static/js/496.fe28bf52.chunk.js": "/portfolio/static/js/496.fe28bf52.chunk.js",
+    "static/media/archana2.png": "/portfolio/static/media/archana2.6afb9ad3aa192175bdce.png",
+    "static/media/Archana (1).pdf": "/portfolio/static/media/Archana (1).17d88772d9f7101d1b9d.pdf",
+    "static/media/pic14.png": "/portfolio/static/media/pic14.74c5a474ac3a55137c53.png",
+    "static/media/pic3.png": "/portfolio/static/media/pic3.33f04b0de70fb2d0206e.png",
+    "static/media/pic6.png": "/portfolio/static/media/pic6.7adf222349a3ba2497cd.png",
+    "index.html": "/portfolio/index.html",
+    "main.98710a92.css.map": "/portfolio/static/css/main.98710a92.css.map",
+    "main.2337f6f3.js.map": "/portfolio/static/js/main.2337f6f3.js.map",
+    "496.fe28bf52.chunk.js.map": "/portfolio/static/js/496.fe28bf52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98710a92.css",
+    "static/js/main.2337f6f3.js"
+  ]
+}
